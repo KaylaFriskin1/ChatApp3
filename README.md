@@ -13,7 +13,7 @@
     ## Menu  System
 The menu system has two new features by viewing recent sent messages and storing messages.
 ## feat
-five parrallel arrays for sent, stored, disregarded, hash, and ID.
-Menu option was updated.
-Add displayLongestMessage and searchByMessageID method
-Add searchByRecipient and deleteByHash methods.
+-five parrallel arrays for sent, stored, disregarded, hash, and ID.
+-Menu option was updated.
+-Add displayLongestMessage and searchByMessageID method
+-Add searchByRecipient and deleteByHash methods.
