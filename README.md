@@ -11,3 +11,4 @@
   - message Hash
   - message IDs
     ## Menu  System
+The menu system has two new features by viewing recent sent messages and storing messages.
